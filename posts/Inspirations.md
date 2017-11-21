@@ -37,4 +37,5 @@ Bien entendu le fabmanager en charge n'est pas de l'avis de lui laisser le contr
 Il y a aussi d'autres personnages : le fabmanager adjoint qui lui est plus sensible aux *charmes* du MakerCat, le geek, les autres membres de la Cat-Community d'internet, Le #GitCat# qui semble diriger le monde des makers et pleins d'autres personnages qui se rajouteront au fur et à mesure!
 
 ![photo](https://github.com/Valonlisbeth/The-MakerCat/blob/master/images/98076635.jpg?raw=true)
+
 *source:google*
