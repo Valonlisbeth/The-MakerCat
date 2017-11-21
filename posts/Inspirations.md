@@ -1,6 +1,7 @@
 ## Pourquoi The MakerCat?
 
 ![photo](https://github.com/Valonlisbeth/The-MakerCat/blob/master/images/chat-steampunk.jpg?raw=true)
+
 *source:google*
 
 *quoi? une BD?The Maker Cat?mais qu'est-ce que tout ça avoir avec les makers?* me direz vous! Hé ben, c'est une longue histoire...
@@ -11,6 +12,7 @@ A travers ces aventures, l'idée est de partager et surtout rendre le plus possi
 Alors on commence par où...
 
 ![photo](https://github.com/Valonlisbeth/The-MakerCat/blob/master/images/3ce20b5250120521988e5cb447384752.jpg?raw=true)
+
 *source:google*
 
 # Les inspirations
@@ -25,7 +27,8 @@ Dans les inspirations, je peux aussi citer le **steampunk**! j'ai fait une jolie
 L'idée de croiser des univers et des *technologies* ne me déplait pas du tout au contraire!
 
 ![photo](https://github.com/Valonlisbeth/The-MakerCat/blob/master/images/2b2b90d56df05b72e553ae2316d766c2.jpg?raw=true)
-*Non mais regardez moi cette perle! source: google*
+
+*Non mais regardez moi cette perle!source:google*
 
 # Qui est The MakerCat?
 
